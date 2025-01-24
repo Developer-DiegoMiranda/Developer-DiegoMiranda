@@ -1,4 +1,4 @@
-# 👨‍💻 Back-End Student  
+# 👨‍💻 Back-End  
 
 🚀 Explorando o mundo do desenvolvimento de APIs, banco de dados e cibersegurança.  
 📊 Realizo atividades relacionadas a banco de dados, análise de dados e extração de insights.  
