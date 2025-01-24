@@ -7,7 +7,7 @@
 ☕ Atualmente, estou me dedicando à linguagem Java com Spring para criar aplicações robustas e integradas a bancos de dados.  
 
 
-![Java Code Background](./path-to-your-uploaded-carbon(1).png)
+![Java Code Background](./path-to-your-uploaded-carbon.png)
 
 ---
 
