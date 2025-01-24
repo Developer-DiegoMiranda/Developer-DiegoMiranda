@@ -6,6 +6,9 @@
 🩺 Com mais de 10 anos de experiência na área da saúde, unindo conhecimentos para desenvolver soluções inovadoras.  
 ☕ Atualmente, estou me dedicando à linguagem Java com Spring para criar aplicações robustas e integradas a bancos de dados.  
 
+
+![Java Code Background](./path-to-your-uploaded-carbon(1).png)
+
 ---
 
 ### Código Java que me inspira 💻
