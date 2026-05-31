@@ -4,12 +4,12 @@
 📊 Realizo atividades relacionadas a banco de dados, análise de dados e extração de insights.  
 ❤️ Apaixonado por tecnologia e em constante busca por aprendizado.  
 🩺 Com mais de 10 anos de experiência na área da saúde, unindo conhecimentos para desenvolver soluções inovadoras.  
-☕ Atualmente, estou me dedicando à linguagem Java com Spring para criar aplicações robustas e integradas a bancos de dados.  
 
 
 <p align="center">
-  <img src="oracle.png" alt="Oracle Database" width="500"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Logo" width="500">
 </p>
+
 
 ---
 
