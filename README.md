@@ -7,14 +7,17 @@
 ☕ Atualmente, estou me dedicando à linguagem Java com Spring para criar aplicações robustas e integradas a bancos de dados.  
 
 
-![Java Coffee](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+<p align="center">
+  <img src="oracle.png" alt="Oracle Database" width="500"/>
+</p>
 
 ---
 
-### Código Java que me inspira 💻
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World! Let's code in Java ☕");
-    }
-}
+# Código PL/SQL que me inspira 💻
+
+```sql
+BEGIN
+   DBMS_OUTPUT.PUT_LINE('Olá, Mundo! Vamos programar em PL/SQL 🚀');
+END;
+/
+```
